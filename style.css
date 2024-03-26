@@ -1,47 +1,6 @@
-* {
-  font-family: "Love Ya Like A Sister", Poppins, sans-serif;
-}
 
-body {
-  margin: 0;
-  /* background-color: #6363b1; */
-  background-color: #ff407d;
-
-  color: black;
-}
-header p,
-h1 {
-  text-align: center;
-}
-
-h1 {
-  margin-bottom: 0.2em;
-  font-weight: bold;
-  font-size: 2em;
-  letter-spacing: 0.4px;
-  /* font-family: "Love Ya Like A Sister", Poppins, sans-serif; */
-}
-header p {
-  /* font-style: italic; */
-  color: rgba(172, 255, 47, 0.774);
   margin-top: 0;
-  font-size: 1.2em;
-  /* font-family: "Love Ya Like A Sister", Poppins, sans-serif; */
-}
-form {
-  /* background-color: #2c2c4d; */
-  background-color: #ffcad4;
-  width: 70%;
-  margin: 0 auto;
-  min-width: 400px;
-  max-width: 800px;
-  font-size: 1.2em;
 
-  padding: 2.5em 3em;
-  border-radius: 5px;
-}
-
-fieldset {
   padding: 0;
   border: none;
 }
